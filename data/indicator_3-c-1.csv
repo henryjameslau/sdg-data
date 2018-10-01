@@ -1,7 +1,988 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Occupation Category,Health Worker Category,Value
+2011,,,,60.46080356987664
+2012,,,,60.566517541794205
+2013,,,,62.30009187950525
+2014,,,,64.00262861318208
+2015,,,,65.4401167255414
+2016,,,,64.34562462584599
+2011,Male,,,26.896807850492547
+2012,Male,,,28.755057205087034
+2013,Male,,,29.27204469245113
+2014,Male,,,31.766996232467307
+2015,Male,,,32.220074267847814
+2016,Male,,,31.8526278323761
+2011,Female,,,90.12260078217004
+2012,Female,,,90.624093850757
+2013,Female,,,93.62120034938533
+2014,Female,,,94.61814468188885
+2015,Female,,,97.35406866818691
+2016,Female,,,95.19743988496674
+2011,,Health and Social Services Managers and Directors,,0.9151127200557477
+2011,,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.9151127200557477
+2011,,Managers and Proprietors in Health and Care Services,,0.29436628843124213
+2011,,Managers and Proprietors in Health and Care Services,Health care practice managers,0.29436628843124213
+2011,,Natural and Social Science Professionals,,1.5392722773607057
+2011,,Natural and Social Science Professionals,Chemical scientists,0.436121614724477
+2011,,Natural and Social Science Professionals,Biological scientists and biochemists,1.1031506626362286
+2011,,Engineering Professionals,,0.6597445528252306
+2011,,Engineering Professionals,Production and process engineers,0.6597445528252306
+2011,,Health Professionals,,7.567310472765311
+2011,,Health Professionals,Medical practitioners,3.8121453549097657
+2011,,Health Professionals,Psychologists,0.38909632757157686
+2011,,Health Professionals,Pharmacists,0.984528743732727
+2011,,Health Professionals,Ophthalmic opticians,0.3016191805022035
+2011,,Health Professionals,Dental practitioners,0.532811040829516
+2011,,Health Professionals,Veterinarians,0.33088357291052717
+2011,,Health Professionals,Medical radiographers,0.41330423749034134
+2011,,Health Professionals,Podiatrists,0.18315527667650047
+2011,,Health Professionals,Health professionals n.e.c,0.6197667381421536
+2011,,Therapy Professionals,,2.1017111452774824
+2011,,Therapy Professionals,Physiotherapists,0.7254156191583802
+2011,,Therapy Professionals,Occupational therapists,0.5230615105293347
+2011,,Therapy Professionals,Speech and language therapists,0.21927752346128868
+2011,,Therapy Professionals,Therapy professionals n.e.c,0.6339564921284789
+2011,,Nursing and Midwifery Professionals,,9.535135442623936
+2011,,Nursing and Midwifery Professionals,Nurses,8.976552142605447
+2011,,Nursing and Midwifery Professionals,Midwives,0.5585833000184878
+2011,,Quality and Regulatory Professionals,,0.9693592962640495
+2011,,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,0.9693592962640495
+2011,,"Science, Engineering and Production Technicians",,1.1725508848054282
+2011,,"Science, Engineering and Production Technicians",Laboratory technicians,1.1725508848054282
+2011,,Health Associate Professionals,,1.9920012767618285
+2011,,Health Associate Professionals,Paramedics,0.21426844549506913
+2011,,Health Associate Professionals,Pharmaceutical technicians,0.4658126478428572
+2011,,Health Associate Professionals,Medical and dental technicians,0.5080816811540158
+2011,,Health Associate Professionals,Health associate professionals n.e.c,0.8038385022698866
+2011,,Welfare and Housing Associate Professionals,,2.871766023914002
+2011,,Welfare and Housing Associate Professionals,Child and early years officers,0.46750340917530353
+2011,,Welfare and Housing Associate Professionals,Counsellors,0.4456025193924004
+2011,,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.9586600953462978
+2011,,Administrative Occupations: Records,,3.078402341151393
+2011,,Administrative Occupations: Records,Records clerks and assistants,1.732493114492985
+2011,,Administrative Occupations: Records,Stock control clerks and assistants,1.3459092266584076
+2011,,Secretarial and Related Occupations,,8.485409677791454
+2011,,Secretarial and Related Occupations,Medical Secretaries,1.0904462503812113
+2011,,Secretarial and Related Occupations,Personal assistants and other secretaries,3.6414100633482445
+2011,,Secretarial and Related Occupations,Receptionists,3.7535533640619985
+2011,,Caring Personal Services,,17.49460773547012
+2011,,Caring Personal Services,Nursing auxiliaries and assistants,4.745429808912367
+2011,,Caring Personal Services,Ambulance staff (excluding paramedics),0.38737396322357076
+2011,,Caring Personal Services,Dental nurses,0.8138566582023257
+2011,,Caring Personal Services,Care workers and home carers,10.370403143867987
+2011,,Caring Personal Services,Senior care workers,1.1775441612638677
+2011,,Sales Assistants and Retail Cashiers,,1.1367604696840172
+2011,,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.1367604696840172
+2011,,Process Operatives,,0.6472929646946911
+2011,,Process Operatives,Chemical and related process operatives,0.6472929646946911
+2011,Male,Health and Social Services Managers and Directors,,0.6138161565943803
+2011,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.6138161565943803
+2011,Male,Managers and Proprietors in Health and Care Services,,0.0
+2011,Male,Natural and Social Science Professionals,,1.5306815304847285
+2011,Male,Natural and Social Science Professionals,Chemical scientists,0.49808248373273023
+2011,Male,Natural and Social Science Professionals,Biological scientists and biochemists,1.0325990467519983
+2011,Male,Engineering Professionals,,1.2451258163943002
+2011,Male,Engineering Professionals,Production and process engineers,1.2451258163943002
+2011,Male,Health Professionals,,6.622577250297205
+2011,Male,Health Professionals,Medical practitioners,4.5741652021485235
+2011,Male,Health Professionals,Pharmacists,0.7714506284942991
+2011,Male,Health Professionals,Dental practitioners,0.6323386894002458
+2011,Male,Health Professionals,Veterinarians,0.31501168639975635
+2011,Male,Health Professionals,Health professionals n.e.c,0.3296110438543796
+2011,Male,Therapy Professionals,,0.41894367603266897
+2011,Male,Therapy Professionals,Therapy professionals n.e.c,0.41894367603266897
+2011,Male,Nursing and Midwifery Professionals,,2.2477222188617976
+2011,Male,Nursing and Midwifery Professionals,Nurses,2.2477222188617976
+2011,Male,Quality and Regulatory Professionals,,1.210910582183465
+2011,Male,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.210910582183465
+2011,Male,"Science, Engineering and Production Technicians",,1.0121470834455217
+2011,Male,"Science, Engineering and Production Technicians",Laboratory technicians,1.0121470834455217
+2011,Male,Health Associate Professionals,,0.7125708410506533
+2011,Male,Health Associate Professionals,Medical and dental technicians,0.36488746484055073
+2011,Male,Health Associate Professionals,Health associate professionals n.e.c,0.34768337621010265
+2011,Male,Welfare and Housing Associate Professionals,,0.7481688337869263
+2011,Male,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,0.7481688337869263
+2011,Male,Administrative Occupations: Records,,2.480733108985586
+2011,Male,Administrative Occupations: Records,Records clerks and assistants,0.8035756463294723
+2011,Male,Administrative Occupations: Records,Stock control clerks and assistants,1.6771574626561139
+2011,Male,Secretarial and Related Occupations,,0.7167834309769874
+2011,Male,Secretarial and Related Occupations,Receptionists,0.7167834309769874
+2011,Male,Caring Personal Services,,6.105875762233579
+2011,Male,Caring Personal Services,Nursing auxiliaries and assistants,1.9374054800135279
+2011,Male,Caring Personal Services,Ambulance staff (excluding paramedics),0.41566364418163027
+2011,Male,Caring Personal Services,Care workers and home carers,3.4419432272149777
+2011,Male,Caring Personal Services,Senior care workers,0.3108634108234427
+2011,Male,Sales Assistants and Retail Cashiers,,0.0
+2011,Male,Process Operatives,,1.2307515591647484
+2011,Male,Process Operatives,Chemical and related process operatives,1.2307515591647484
+2011,Female,Health and Social Services Managers and Directors,,1.20619912721202
+2011,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,1.20619912721202
+2011,Female,Managers and Proprietors in Health and Care Services,,0.45004508839132834
+2011,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.45004508839132834
+2011,Female,Natural and Social Science Professionals,,1.5475697906970343
+2011,Female,Natural and Social Science Professionals,Chemical scientists,0.3762595654775216
+2011,Female,Natural and Social Science Professionals,Biological scientists and biochemists,1.171310225219513
+2011,Female,Engineering Professionals,,0.0
+2011,Female,Health Professionals,,7.451747530111173
+2011,Female,Health Professionals,Medical practitioners,3.075939811642181
+2011,Female,Health Professionals,Psychologists,0.52814900611988
+2011,Female,Health Professionals,Pharmacists,1.1903857246170189
+2011,Female,Health Professionals,Ophthalmic opticians,0.3507530752407909
+2011,Female,Health Professionals,Dental practitioners,0.4366549577067596
+2011,Female,Health Professionals,Veterinarians,0.346217207305879
+2011,Female,Health Professionals,Medical radiographers,0.6235575706960066
+2011,Female,Health Professionals,Health professionals n.e.c,0.9000901767826567
+2011,Female,Therapy Professionals,,3.462979830362267
+2011,Female,Therapy Professionals,Physiotherapists,1.2507189816690665
+2011,Female,Therapy Professionals,Occupational therapists,0.9394528115328854
+2011,Female,Therapy Professionals,Speech and language therapists,0.43112492693679855
+2011,Female,Therapy Professionals,Therapy professionals n.e.c,0.841683110223517
+2011,Female,Nursing and Midwifery Professionals,,16.54050843848521
+2011,Female,Nursing and Midwifery Professionals,Nurses,15.477375556754488
+2011,Female,Nursing and Midwifery Professionals,Midwives,1.0631328817307233
+2011,Female,Quality and Regulatory Professionals,,0.7359911738223505
+2011,Female,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,0.7359911738223505
+2011,Female,"Science, Engineering and Production Technicians",,1.3275180606766162
+2011,Female,"Science, Engineering and Production Technicians",Laboratory technicians,1.3275180606766162
+2011,Female,Health Associate Professionals,,2.6688301306895394
+2011,Female,Health Associate Professionals,Pharmaceutical technicians,0.7778702832487974
+2011,Female,Health Associate Professionals,Medical and dental technicians,0.6464233159021379
+2011,Female,Health Associate Professionals,Health associate professionals n.e.c,1.2445365315386043
+2011,Female,Welfare and Housing Associate Professionals,,4.662685831557873
+2011,Female,Welfare and Housing Associate Professionals,Child and early years officers,0.8260561131600876
+2011,Female,Welfare and Housing Associate Professionals,Counsellors,0.7084963579155215
+2011,Female,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,3.128133360482263
+2011,Female,Administrative Occupations: Records,,3.655816352773214
+2011,Female,Administrative Occupations: Records,Records clerks and assistants,2.6299335097682404
+2011,Female,Administrative Occupations: Records,Stock control clerks and assistants,1.025882843004974
+2011,Female,Secretarial and Related Occupations,,15.86780194263146
+2011,Female,Secretarial and Related Occupations,Medical Secretaries,2.099050555851975
+2011,Female,Secretarial and Related Occupations,Personal assistants and other secretaries,7.081328671289565
+2011,Female,Secretarial and Related Occupations,Receptionists,6.687422715489921
+2011,Female,Caring Personal Services,,28.49742912597615
+2011,Female,Caring Personal Services,Nursing auxiliaries and assistants,7.458302791304779
+2011,Female,Caring Personal Services,Ambulance staff (excluding paramedics),0.3600422842307817
+2011,Female,Caring Personal Services,Dental nurses,1.60013615060026
+2011,Female,Caring Personal Services,Care workers and home carers,17.064090509081584
+2011,Female,Caring Personal Services,Senior care workers,2.0148573907587473
+2011,Female,Sales Assistants and Retail Cashiers,,2.0474783587837986
+2011,Female,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,2.0474783587837986
+2011,Female,Process Operatives,,0.0
+2012,,Health and Social Services Managers and Directors,,0.7535986186327605
+2012,,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.7535986186327605
+2012,,Managers and Proprietors in Health and Care Services,,0.3336158857232556
+2012,,Managers and Proprietors in Health and Care Services,Health care practice managers,0.3336158857232556
+2012,,Natural and Social Science Professionals,,1.5436935876304843
+2012,,Natural and Social Science Professionals,Chemical scientists,0.503916490071423
+2012,,Natural and Social Science Professionals,Biological scientists and biochemists,1.0397770975590612
+2012,,Engineering Professionals,,0.6202809826544228
+2012,,Engineering Professionals,Production and process engineers,0.6202809826544228
+2012,,Health Professionals,,7.427768620987363
+2012,,Health Professionals,Medical practitioners,3.54370928498548
+2012,,Health Professionals,Psychologists,0.5133349030688329
+2012,,Health Professionals,Pharmacists,0.9012008476571697
+2012,,Health Professionals,Ophthalmic opticians,0.4134840279412919
+2012,,Health Professionals,Dental practitioners,0.5509143709284985
+2012,,Health Professionals,Veterinarians,0.15865316694137038
+2012,,Health Professionals,Medical radiographers,0.42670120084765717
+2012,,Health Professionals,Podiatrists,0.13246997880857075
+2012,,Health Professionals,Health professionals n.e.c,0.7873008398084923
+2012,,Therapy Professionals,,1.933396122753316
+2012,,Therapy Professionals,Physiotherapists,0.6643591554823012
+2012,,Therapy Professionals,Occupational therapists,0.44398398869790445
+2012,,Therapy Professionals,Speech and language therapists,0.18712816890353975
+2012,,Therapy Professionals,Therapy professionals n.e.c,0.6379248096695707
+2012,,Nursing and Midwifery Professionals,,9.578384742170945
+2012,,Nursing and Midwifery Professionals,Nurses,8.998351777725453
+2012,,Nursing and Midwifery Professionals,Midwives,0.5800329644454909
+2012,,Quality and Regulatory Professionals,,1.243057844753159
+2012,,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.243057844753159
+2012,,"Science, Engineering and Production Technicians",,1.1064280668707323
+2012,,"Science, Engineering and Production Technicians",Laboratory technicians,1.1064280668707323
+2012,,Health Associate Professionals,,2.343034298720666
+2012,,Health Associate Professionals,Paramedics,0.3765638489914449
+2012,,Health Associate Professionals,Dispensing opticians,0.08566046621144337
+2012,,Health Associate Professionals,Pharmaceutical technicians,0.5971901734557726
+2012,,Health Associate Professionals,Medical and dental technicians,0.5357036339376815
+2012,,Health Associate Professionals,Health associate professionals n.e.c,0.747916176124323
+2012,,Welfare and Housing Associate Professionals,,2.7805666745153443
+2012,,Welfare and Housing Associate Professionals,Child and early years officers,0.4155403814457264
+2012,,Welfare and Housing Associate Professionals,Counsellors,0.43150459147633624
+2012,,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.9335217015932817
+2012,,Administrative Occupations: Records,,3.2642492739973314
+2012,,Administrative Occupations: Records,Records clerks and assistants,1.9366925673024096
+2012,,Administrative Occupations: Records,Stock control clerks and assistants,1.3275567066949219
+2012,,Secretarial and Related Occupations,,8.611098029981948
+2012,,Secretarial and Related Occupations,Medical Secretaries,1.2968840750333568
+2012,,Secretarial and Related Occupations,Personal assistants and other secretaries,3.6749234753943965
+2012,,Secretarial and Related Occupations,Receptionists,3.6392904795541954
+2012,,Caring Personal Services,,17.026889569107606
+2012,,Caring Personal Services,Nursing auxiliaries and assistants,4.2143473824660544
+2012,,Caring Personal Services,Ambulance staff (excluding paramedics),0.25851973942390705
+2012,,Caring Personal Services,Dental nurses,0.6922847500196216
+2012,,Caring Personal Services,Care workers and home carers,10.520916725531748
+2012,,Caring Personal Services,Senior care workers,1.3408209716662742
+2012,,Sales Assistants and Retail Cashiers,,1.2192135625147162
+2012,,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.2192135625147162
+2012,,Process Operatives,,0.7812416607801586
+2012,,Process Operatives,Chemical and related process operatives,0.7812416607801586
+2012,Male,Health and Social Services Managers and Directors,,0.5449107146677741
+2012,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.5449107146677741
+2012,Male,Managers and Proprietors in Health and Care Services,,0.0
+2012,Male,Natural and Social Science Professionals,,1.7580906819054325
+2012,Male,Natural and Social Science Professionals,Chemical scientists,0.6911015990881368
+2012,Male,Natural and Social Science Professionals,Biological scientists and biochemists,1.0669890828172957
+2012,Male,Engineering Professionals,,1.090555896426345
+2012,Male,Engineering Professionals,Production and process engineers,1.090555896426345
+2012,Male,Health Professionals,,6.241469404240532
+2012,Male,Health Professionals,Medical practitioners,3.8755593046729797
+2012,Male,Health Professionals,Psychologists,0.2361152030153259
+2012,Male,Health Professionals,Pharmacists,0.7617701065635109
+2012,Male,Health Professionals,Ophthalmic opticians,0.395143294848748
+2012,Male,Health Professionals,Dental practitioners,0.4754237412080297
+2012,Male,Health Professionals,Medical radiographers,0.1712266322110059
+2012,Male,Health Professionals,Health professionals n.e.c,0.3262311217209317
+2012,Male,Therapy Professionals,,0.5781214005125048
+2012,Male,Therapy Professionals,Physiotherapists,0.2251939967086933
+2012,Male,Therapy Professionals,Therapy professionals n.e.c,0.3529274038038115
+2012,Male,Nursing and Midwifery Professionals,,2.2105543431881145
+2012,Male,Nursing and Midwifery Professionals,Nurses,2.2105543431881145
+2012,Male,Quality and Regulatory Professionals,,1.5921330527371003
+2012,Male,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.5921330527371003
+2012,Male,"Science, Engineering and Production Technicians",,0.9159123955755447
+2012,Male,"Science, Engineering and Production Technicians",Laboratory technicians,0.9159123955755447
+2012,Male,Health Associate Professionals,,1.455298640386455
+2012,Male,Health Associate Professionals,Paramedics,0.4054577674716788
+2012,Male,Health Associate Professionals,Pharmaceutical technicians,0.16311556086046586
+2012,Male,Health Associate Professionals,Medical and dental technicians,0.6065101502393948
+2012,Male,Health Associate Professionals,Health associate professionals n.e.c,0.2802151618149154
+2012,Male,Welfare and Housing Associate Professionals,,1.5196124108588467
+2012,Male,Welfare and Housing Associate Professionals,Child and early years officers,0.19859351468113495
+2012,Male,Welfare and Housing Associate Professionals,Counsellors,0.2361152030153259
+2012,Male,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.0849036931623859
+2012,Male,Administrative Occupations: Records,,2.57711728819933
+2012,Male,Administrative Occupations: Records,Records clerks and assistants,0.9200637313061361
+2012,Male,Administrative Occupations: Records,Stock control clerks and assistants,1.6570535568931941
+2012,Male,Secretarial and Related Occupations,,0.4955098194737371
+2012,Male,Secretarial and Related Occupations,Receptionists,0.4955098194737371
+2012,Male,Caring Personal Services,,6.073755440724642
+2012,Male,Caring Personal Services,Nursing auxiliaries and assistants,1.6841969059009065
+2012,Male,Caring Personal Services,Ambulance staff (excluding paramedics),0.43723145248658946
+2012,Male,Caring Personal Services,Care workers and home carers,3.320366050734049
+2012,Male,Caring Personal Services,Senior care workers,0.6319610316030971
+2012,Male,Sales Assistants and Retail Cashiers,,0.40734183522633177
+2012,Male,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,0.40734183522633177
+2012,Male,Process Operatives,,1.2946738809643439
+2012,Male,Process Operatives,Chemical and related process operatives,1.2946738809643439
+2012,Female,Health and Social Services Managers and Directors,,0.9553622546944397
+2012,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.9553622546944397
+2012,Female,Managers and Proprietors in Health and Care Services,,0.589969536096046
+2012,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.589969536096046
+2012,Female,Natural and Social Science Professionals,,1.3364080453950204
+2012,Female,Natural and Social Science Professionals,Chemical scientists,0.3229410930747104
+2012,Female,Natural and Social Science Professionals,Biological scientists and biochemists,1.0134669523203101
+2012,Female,Engineering Professionals,,0.16560765040657233
+2012,Female,Engineering Professionals,Production and process engineers,0.16560765040657233
+2012,Female,Health Professionals,,8.346298317050845
+2012,Female,Health Professionals,Medical practitioners,3.222865661939089
+2012,Female,Health Professionals,Psychologists,0.781356900911546
+2012,Female,Health Professionals,Pharmacists,1.0360049062347019
+2012,Female,Health Professionals,Ophthalmic opticians,0.4312158935922066
+2012,Female,Health Professionals,Dental practitioners,0.6238999626055208
+2012,Female,Health Professionals,Veterinarians,0.18669453057579102
+2012,Female,Health Professionals,Medical radiographers,0.6736995785834853
+2012,Female,Health Professionals,Podiatrists,0.15748781221549693
+2012,Female,Health Professionals,Health professionals n.e.c,1.2330730703930075
+2012,Female,Therapy Professionals,,3.111904831297549
+2012,Female,Therapy Professionals,Physiotherapists,1.0889536609787869
+2012,Female,Therapy Professionals,Occupational therapists,0.7414369359645478
+2012,Female,Therapy Professionals,Speech and language therapists,0.36804787481296586
+2012,Female,Therapy Professionals,Therapy professionals n.e.c,0.9134663595412482
+2012,Female,Nursing and Midwifery Professionals,,16.684260678544312
+2012,Female,Nursing and Midwifery Professionals,Nurses,15.560944356323446
+2012,Female,Nursing and Midwifery Professionals,Midwives,1.1233163222208666
+2012,Female,Quality and Regulatory Professionals,,0.9055626387164752
+2012,Female,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,0.9055626387164752
+2012,Female,"Science, Engineering and Production Technicians",,1.2906220376483861
+2012,Female,"Science, Engineering and Production Technicians",Laboratory technicians,1.2906220376483861
+2012,Female,Health Associate Professionals,,3.2013156731277936
+2012,Female,Health Associate Professionals,Paramedics,0.34862818575522275
+2012,Female,Health Associate Professionals,Dispensing opticians,0.16847892398744693
+2012,Female,Health Associate Professionals,Pharmaceutical technicians,1.0168630823622047
+2012,Female,Health Associate Professionals,Medical and dental technicians,0.4672457459457617
+2012,Female,Health Associate Professionals,Health associate professionals n.e.c,1.2000997350771576
+2012,Female,Welfare and Housing Associate Professionals,,3.9996840981582853
+2012,Female,Welfare and Housing Associate Professionals,Child and early years officers,0.6252892885317505
+2012,Female,Welfare and Housing Associate Professionals,Counsellors,0.6204112108352109
+2012,Female,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,2.7539835987913235
+2012,Female,Administrative Occupations: Records,,3.9285814846447997
+2012,Female,Administrative Occupations: Records,Records clerks and assistants,2.9195912491978957
+2012,Female,Administrative Occupations: Records,Stock control clerks and assistants,1.0089902354469036
+2012,Female,Secretarial and Related Occupations,,16.311272978215865
+2012,Female,Secretarial and Related Occupations,Medical Secretaries,2.520978204007878
+2012,Female,Secretarial and Related Occupations,Personal assistants and other secretaries,7.11152718163689
+2012,Female,Secretarial and Related Occupations,Receptionists,6.678767592571095
+2012,Female,Caring Personal Services,,27.508251978523614
+2012,Female,Caring Personal Services,Nursing auxiliaries and assistants,6.660551985982751
+2012,Female,Caring Personal Services,Dental nurses,1.3389705798811775
+2012,Female,Caring Personal Services,Care workers and home carers,17.482567355755858
+2012,Female,Caring Personal Services,Senior care workers,2.026162056903826
+2012,Female,Sales Assistants and Retail Cashiers,,2.0041489594504545
+2012,Female,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,2.0041489594504545
+2012,Female,Process Operatives,,0.28484268878654667
+2012,Female,Process Operatives,Chemical and related process operatives,0.28484268878654667
+2013,,Health and Social Services Managers and Directors,,0.7814437717706849
+2013,,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.7814437717706849
+2013,,Managers and Proprietors in Health and Care Services,,0.3359295663256154
+2013,,Managers and Proprietors in Health and Care Services,Health care practice managers,0.3359295663256154
+2013,,Natural and Social Science Professionals,,1.5346373255420345
+2013,,Natural and Social Science Professionals,Chemical scientists,0.39561224664889394
+2013,,Natural and Social Science Professionals,Biological scientists and biochemists,1.1390250788931406
+2013,,Engineering Professionals,,0.7694947563165211
+2013,,Engineering Professionals,Production and process engineers,0.7694947563165211
+2013,,Health Professionals,,7.6223799131746475
+2013,,Health Professionals,Medical practitioners,3.7577781694919485
+2013,,Health Professionals,Psychologists,0.5978407536303324
+2013,,Health Professionals,Pharmacists,0.7083925454366772
+2013,,Health Professionals,Ophthalmic opticians,0.3167425049566575
+2013,,Health Professionals,Dental practitioners,0.6666645867684153
+2013,,Health Professionals,Veterinarians,0.29833540543196624
+2013,,Health Professionals,Medical radiographers,0.3693119332602249
+2013,,Health Professionals,Podiatrists,0.23111829369307255
+2013,,Health Professionals,Health professionals n.e.c,0.6761957205053528
+2013,,Therapy Professionals,,2.3294340440865633
+2013,,Therapy Professionals,Physiotherapists,0.8088048332675565
+2013,,Therapy Professionals,Occupational therapists,0.610663326350075
+2013,,Therapy Professionals,Speech and language therapists,0.31062760409760753
+2013,,Therapy Professionals,Therapy professionals n.e.c,0.5993382803713243
+2013,,Nursing and Midwifery Professionals,,9.978769438599063
+2013,,Nursing and Midwifery Professionals,Nurses,9.253888499774591
+2013,,Nursing and Midwifery Professionals,Midwives,0.7248809388244727
+2013,,Quality and Regulatory Professionals,,1.093459707951087
+2013,,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.093459707951087
+2013,,"Science, Engineering and Production Technicians",,1.1716586824572541
+2013,,"Science, Engineering and Production Technicians",Laboratory technicians,1.1716586824572541
+2013,,Health Associate Professionals,,2.37726130437699
+2013,,Health Associate Professionals,Paramedics,0.4917035458625364
+2013,,Health Associate Professionals,Dispensing opticians,0.07286403549138376
+2013,,Health Associate Professionals,Pharmaceutical technicians,0.4216473730105123
+2013,,Health Associate Professionals,Medical and dental technicians,0.624827433441956
+2013,,Health Associate Professionals,Health associate professionals n.e.c,0.7662189165706014
+2013,,Welfare and Housing Associate Professionals,,2.7697381044119322
+2013,,Welfare and Housing Associate Professionals,Child and early years officers,0.4688818622992963
+2013,,Welfare and Housing Associate Professionals,Counsellors,0.4997995498060235
+2013,,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.8010566923066123
+2013,,Administrative Occupations: Records,,3.0065501195681508
+2013,,Administrative Occupations: Records,Records clerks and assistants,1.734510347753788
+2013,,Administrative Occupations: Records,Stock control clerks and assistants,1.2720397718143628
+2013,,Secretarial and Related Occupations,,8.566414531001143
+2013,,Secretarial and Related Occupations,Medical Secretaries,1.2855643101939453
+2013,,Secretarial and Related Occupations,Personal assistants and other secretaries,3.549949536468676
+2013,,Secretarial and Related Occupations,Receptionists,3.730900684338522
+2013,,Caring Personal Services,,17.9288113225501
+2013,,Caring Personal Services,Nursing auxiliaries and assistants,4.808355575245259
+2013,,Caring Personal Services,Ambulance staff (excluding paramedics),0.1908722625289171
+2013,,Caring Personal Services,Dental nurses,0.7197487898891987
+2013,,Caring Personal Services,Care workers and home carers,10.86382334176212
+2013,,Caring Personal Services,Senior care workers,1.3460113531246052
+2013,,Sales Assistants and Retail Cashiers,,1.1488213996571288
+2013,,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.1488213996571288
+2013,,Process Operatives,,0.8852878917163373
+2013,,Process Operatives,Chemical and related process operatives,0.8852878917163373
+2013,Male,Health and Social Services Managers and Directors,,0.5626799918726468
+2013,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.5626799918726468
+2013,Male,Managers and Proprietors in Health and Care Services,,0.0
+2013,Male,Natural and Social Science Professionals,,1.6177961508984504
+2013,Male,Natural and Social Science Professionals,Chemical scientists,0.6143718357971474
+2013,Male,Natural and Social Science Professionals,Biological scientists and biochemists,1.003424315101303
+2013,Male,Engineering Professionals,,1.514666165350919
+2013,Male,Engineering Professionals,Production and process engineers,1.514666165350919
+2013,Male,Health Professionals,,6.60108018194641
+2013,Male,Health Professionals,Medical practitioners,4.217071367821053
+2013,Male,Health Professionals,Psychologists,0.208670142959027
+2013,Male,Health Professionals,Pharmacists,0.4642752116899932
+2013,Male,Health Professionals,Ophthalmic opticians,0.2646432132208329
+2013,Male,Health Professionals,Dental practitioners,0.6733259081012251
+2013,Male,Health Professionals,Veterinarians,0.2778357328972698
+2013,Male,Health Professionals,Medical radiographers,0.19008644937635377
+2013,Male,Health Professionals,Health professionals n.e.c,0.30517215588065605
+2013,Male,Therapy Professionals,,0.7464873092876195
+2013,Male,Therapy Professionals,Physiotherapists,0.4796876265042921
+2013,Male,Therapy Professionals,Therapy professionals n.e.c,0.26679968278332733
+2013,Male,Nursing and Midwifery Professionals,,1.9481799729876816
+2013,Male,Nursing and Midwifery Professionals,Nurses,1.9481799729876816
+2013,Male,Quality and Regulatory Professionals,,1.4056058885065277
+2013,Male,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.4056058885065277
+2013,Male,"Science, Engineering and Production Technicians",,1.2073375399077684
+2013,Male,"Science, Engineering and Production Technicians",Laboratory technicians,1.2073375399077684
+2013,Male,Health Associate Professionals,,1.2649279623414451
+2013,Male,Health Associate Professionals,Paramedics,0.5061678042202173
+2013,Male,Health Associate Professionals,Medical and dental technicians,0.534550749197167
+2013,Male,Health Associate Professionals,Health associate professionals n.e.c,0.2242094089240609
+2013,Male,Welfare and Housing Associate Professionals,,1.151808448673535
+2013,Male,Welfare and Housing Associate Professionals,Child and early years officers,0.2397803876767786
+2013,Male,Welfare and Housing Associate Professionals,Counsellors,0.3744963097573176
+2013,Male,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,0.5375317512394387
+2013,Male,Administrative Occupations: Records,,2.2856674595180717
+2013,Male,Administrative Occupations: Records,Records clerks and assistants,0.8932540906879807
+2013,Male,Administrative Occupations: Records,Stock control clerks and assistants,1.392413368830091
+2013,Male,Secretarial and Related Occupations,,0.9282650082908326
+2013,Male,Secretarial and Related Occupations,Personal assistants and other secretaries,0.2784065630755772
+2013,Male,Secretarial and Related Occupations,Receptionists,0.6498584452152555
+2013,Male,Caring Personal Services,,6.27434333044081
+2013,Male,Caring Personal Services,Nursing auxiliaries and assistants,1.974882140217393
+2013,Male,Caring Personal Services,Ambulance staff (excluding paramedics),0.20727478030094232
+2013,Male,Caring Personal Services,Care workers and home carers,3.6805861385751784
+2013,Male,Caring Personal Services,Senior care workers,0.41160027134729654
+2013,Male,Sales Assistants and Retail Cashiers,,0.214093029652947
+2013,Male,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,0.214093029652947
+2013,Male,Process Operatives,,1.5491062527754635
+2013,Male,Process Operatives,Chemical and related process operatives,1.5491062527754635
+2013,Female,Health and Social Services Managers and Directors,,0.9932264302980971
+2013,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.9932264302980971
+2013,Female,Managers and Proprietors in Health and Care Services,,0.5764348249034703
+2013,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.5764348249034703
+2013,Female,Natural and Social Science Professionals,,1.4541348253916102
+2013,Female,Natural and Social Science Professionals,Chemical scientists,0.18383530738826057
+2013,Female,Natural and Social Science Professionals,Biological scientists and biochemists,1.2702995180033496
+2013,Female,Engineering Professionals,,0.0
+2013,Female,Health Professionals,,8.496795454024241
+2013,Female,Health Professionals,Medical practitioners,3.3131494159529566
+2013,Female,Health Professionals,Psychologists,0.9745911544823533
+2013,Female,Health Professionals,Pharmacists,0.9447194520627178
+2013,Female,Health Professionals,Ophthalmic opticians,0.36717940487034006
+2013,Female,Health Professionals,Dental practitioners,0.6602168145264768
+2013,Female,Health Professionals,Veterinarians,0.31818121672877964
+2013,Female,Health Professionals,Medical radiographers,0.5428176469492043
+2013,Female,Health Professionals,Podiatrists,0.34056196807915406
+2013,Female,Health Professionals,Health professionals n.e.c,1.0353783803722592
+2013,Female,Therapy Professionals,,3.7495894175948257
+2013,Female,Therapy Professionals,Physiotherapists,1.1274188365429345
+2013,Female,Therapy Professionals,Occupational therapists,1.123151450482987
+2013,Female,Therapy Professionals,Speech and language therapists,0.5777549515263319
+2013,Female,Therapy Professionals,Therapy professionals n.e.c,0.9212641790425723
+2013,Female,Nursing and Midwifery Professionals,,17.727919017170027
+2013,Female,Nursing and Midwifery Professionals,Nurses,16.3264357535972
+2013,Female,Nursing and Midwifery Professionals,Midwives,1.401483263572828
+2013,Female,Quality and Regulatory Professionals,,0.7912777576194101
+2013,Female,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,0.7912777576194101
+2013,Female,"Science, Engineering and Production Technicians",,1.1371202321900107
+2013,Female,"Science, Engineering and Production Technicians",Laboratory technicians,1.1371202321900107
+2013,Female,Health Associate Professionals,,3.1996799276251324
+2013,Female,Health Associate Professionals,Paramedics,0.4777016337610779
+2013,Female,Health Associate Professionals,Pharmaceutical technicians,0.7188242964577043
+2013,Female,Health Associate Professionals,Medical and dental technicians,0.7122236633433963
+2013,Female,Health Associate Professionals,Health associate professionals n.e.c,1.2909303340629539
+2013,Female,Welfare and Housing Associate Professionals,,4.336032644336735
+2013,Female,Welfare and Housing Associate Professionals,Child and early years officers,0.6906718287097025
+2013,Female,Welfare and Housing Associate Professionals,Counsellors,0.6211042257468101
+2013,Female,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,3.0242565898802223
+2013,Female,Administrative Occupations: Records,,3.7044288068453044
+2013,Female,Administrative Occupations: Records,Records clerks and assistants,2.5489189037926407
+2013,Female,Administrative Occupations: Records,Stock control clerks and assistants,1.1555099030526639
+2013,Female,Secretarial and Related Occupations,,15.960791379683675
+2013,Female,Secretarial and Related Occupations,Medical Secretaries,2.530099424262079
+2013,Female,Secretarial and Related Occupations,Personal assistants and other secretaries,6.717080562692
+2013,Female,Secretarial and Related Occupations,Receptionists,6.713611392729596
+2013,Female,Caring Personal Services,,29.197394020925483
+2013,Female,Caring Personal Services,Nursing auxiliaries and assistants,7.551400588340526
+2013,Female,Caring Personal Services,Ambulance staff (excluding paramedics),0.17499352907700155
+2013,Female,Caring Personal Services,Dental nurses,1.4025884858617357
+2013,Female,Caring Personal Services,Care workers and home carers,17.81781043000116
+2013,Female,Caring Personal Services,Senior care workers,2.250600987645058
+2013,Female,Sales Assistants and Retail Cashiers,,2.053717917123863
+2013,Female,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,2.053717917123863
+2013,Female,Process Operatives,,0.24265769365344214
+2013,Female,Process Operatives,Chemical and related process operatives,0.24265769365344214
+2014,,Health and Social Services Managers and Directors,,0.8069439972258687
+2014,,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.8069439972258687
+2014,,Managers and Proprietors in Health and Care Services,,0.2980333391127734
+2014,,Managers and Proprietors in Health and Care Services,Health care practice managers,0.2980333391127734
+2014,,Natural and Social Science Professionals,,2.0206264087385133
+2014,,Natural and Social Science Professionals,Chemical scientists,0.4500222921259257
+2014,,Natural and Social Science Professionals,Biological scientists and biochemists,1.5706041166125877
+2014,,Engineering Professionals,,1.0189514031654818
+2014,,Engineering Professionals,Production and process engineers,1.0189514031654818
+2014,,Health Professionals,,8.158685879176678
+2014,,Health Professionals,Medical practitioners,3.829833675971565
+2014,,Health Professionals,Psychologists,0.6075223540484977
+2014,,Health Professionals,Pharmacists,0.9238847744779928
+2014,,Health Professionals,Ophthalmic opticians,0.3392892527184009
+2014,,Health Professionals,Dental practitioners,0.7942034280335868
+2014,,Health Professionals,Veterinarians,0.3139319594778689
+2014,,Health Professionals,Medical radiographers,0.3592128402645332
+2014,,Health Professionals,Podiatrists,0.2525666906100612
+2014,,Health Professionals,Health professionals n.e.c,0.7382409035741708
+2014,,Therapy Professionals,,2.2883641294924826
+2014,,Therapy Professionals,Physiotherapists,0.8082753325242117
+2014,,Therapy Professionals,Occupational therapists,0.6461930002724593
+2014,,Therapy Professionals,Speech and language therapists,0.17059668590394572
+2014,,Therapy Professionals,Therapy professionals n.e.c,0.6632991107918658
+2014,,Nursing and Midwifery Professionals,,9.764260768335275
+2014,,Nursing and Midwifery Professionals,Nurses,9.136706462239616
+2014,,Nursing and Midwifery Professionals,Midwives,0.627554306095658
+2014,,Quality and Regulatory Professionals,,1.1055501201297897
+2014,,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.1055501201297897
+2014,,"Science, Engineering and Production Technicians",,1.3146007232556411
+2014,,"Science, Engineering and Production Technicians",Laboratory technicians,1.3146007232556411
+2014,,Health Associate Professionals,,2.3454877021771976
+2014,,Health Associate Professionals,Paramedics,0.3410540460208555
+2014,,Health Associate Professionals,Dispensing opticians,0.09642892527184009
+2014,,Health Associate Professionals,Pharmaceutical technicians,0.3863194461645159
+2014,,Health Associate Professionals,Medical and dental technicians,0.7119702523964035
+2014,,Health Associate Professionals,Health associate professionals n.e.c,0.8097150323235827
+2014,,Welfare and Housing Associate Professionals,,2.585298342951973
+2014,,Welfare and Housing Associate Professionals,Child and early years officers,0.4273121888390756
+2014,,Welfare and Housing Associate Professionals,Counsellors,0.425562876179625
+2014,,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.7324232779332722
+2014,,Administrative Occupations: Records,,3.4088066281921083
+2014,,Administrative Occupations: Records,Records clerks and assistants,1.942418200282367
+2014,,Administrative Occupations: Records,Stock control clerks and assistants,1.4663884279097417
+2014,,Secretarial and Related Occupations,,8.117847942932157
+2014,,Secretarial and Related Occupations,Medical Secretaries,0.9818752631709311
+2014,,Secretarial and Related Occupations,Personal assistants and other secretaries,3.5002817477026724
+2014,,Secretarial and Related Occupations,Receptionists,3.635690932058554
+2014,,Caring Personal Services,,19.158209075372156
+2014,,Caring Personal Services,Nursing auxiliaries and assistants,4.647304510440145
+2014,,Caring Personal Services,Ambulance staff (excluding paramedics),0.3190715329551928
+2014,,Caring Personal Services,Dental nurses,0.8187557278379115
+2014,,Caring Personal Services,Care workers and home carers,12.26071570108736
+2014,,Caring Personal Services,Senior care workers,1.1123616030515444
+2014,,Sales Assistants and Retail Cashiers,,1.020391102964853
+2014,,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.020391102964853
+2014,,Process Operatives,,0.5905710499591311
+2014,,Process Operatives,Chemical and related process operatives,0.5905710499591311
+2014,Male,Health and Social Services Managers and Directors,,0.5356398326312667
+2014,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.5356398326312667
+2014,Male,Managers and Proprietors in Health and Care Services,,0.0
+2014,Male,Natural and Social Science Professionals,,2.2715783906221576
+2014,Male,Natural and Social Science Professionals,Chemical scientists,0.6674267321453599
+2014,Male,Natural and Social Science Professionals,Biological scientists and biochemists,1.6041516584767976
+2014,Male,Engineering Professionals,,1.9171691343632546
+2014,Male,Engineering Professionals,Production and process engineers,1.9171691343632546
+2014,Male,Health Professionals,,7.339083477785195
+2014,Male,Health Professionals,Medical practitioners,4.085582601260777
+2014,Male,Health Professionals,Psychologists,0.19299389389462435
+2014,Male,Health Professionals,Pharmacists,0.7228149732060564
+2014,Male,Health Professionals,Ophthalmic opticians,0.44386079378111776
+2014,Male,Health Professionals,Dental practitioners,1.0534145199346086
+2014,Male,Health Professionals,Veterinarians,0.31169646161925146
+2014,Male,Health Professionals,Health professionals n.e.c,0.5287202340887607
+2014,Male,Therapy Professionals,,0.5869392200077549
+2014,Male,Therapy Professionals,Physiotherapists,0.35179868044513907
+2014,Male,Therapy Professionals,Therapy professionals n.e.c,0.23514053956261594
+2014,Male,Nursing and Midwifery Professionals,,2.1437545339096817
+2014,Male,Nursing and Midwifery Professionals,Nurses,2.1437545339096817
+2014,Male,Quality and Regulatory Professionals,,1.2323175949790386
+2014,Male,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.2323175949790386
+2014,Male,"Science, Engineering and Production Technicians",,1.2730174154972336
+2014,Male,"Science, Engineering and Production Technicians",Laboratory technicians,1.2730174154972336
+2014,Male,Health Associate Professionals,,1.636327791699451
+2014,Male,Health Associate Professionals,Paramedics,0.43841947310905616
+2014,Male,Health Associate Professionals,Pharmaceutical technicians,0.15248278970031598
+2014,Male,Health Associate Professionals,Medical and dental technicians,0.6870217771089112
+2014,Male,Health Associate Professionals,Health associate professionals n.e.c,0.35840375178116757
+2014,Male,Welfare and Housing Associate Professionals,,1.3575623285983989
+2014,Male,Welfare and Housing Associate Professionals,Child and early years officers,0.19978768155453938
+2014,Male,Welfare and Housing Associate Professionals,Counsellors,0.24633770811321673
+2014,Male,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,0.9114369389306427
+2014,Male,Administrative Occupations: Records,,2.8124708276015995
+2014,Male,Administrative Occupations: Records,Records clerks and assistants,1.0286926815054733
+2014,Male,Administrative Occupations: Records,Stock control clerks and assistants,1.783778146096126
+2014,Male,Secretarial and Related Occupations,,0.8032395799023657
+2014,Male,Secretarial and Related Occupations,Personal assistants and other secretaries,0.18270885424280844
+2014,Male,Secretarial and Related Occupations,Receptionists,0.6205307256595572
+2014,Male,Caring Personal Services,,6.910886138886659
+2014,Male,Caring Personal Services,Nursing auxiliaries and assistants,1.9643482153348875
+2014,Male,Caring Personal Services,Ambulance staff (excluding paramedics),0.3966502600888376
+2014,Male,Caring Personal Services,Care workers and home carers,4.140939389600825
+2014,Male,Caring Personal Services,Senior care workers,0.40894827386210975
+2014,Male,Sales Assistants and Retail Cashiers,,0.0
+2014,Male,Process Operatives,,0.9470099659832535
+2014,Male,Process Operatives,Chemical and related process operatives,0.9470099659832535
+2014,Female,Health and Social Services Managers and Directors,,1.069902143096668
+2014,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,1.069902143096668
+2014,Female,Managers and Proprietors in Health and Care Services,,0.5108374234063957
+2014,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.5108374234063957
+2014,Female,Natural and Social Science Professionals,,1.7773984086821328
+2014,Female,Natural and Social Science Professionals,Chemical scientists,0.23930738042252234
+2014,Female,Natural and Social Science Professionals,Biological scientists and biochemists,1.5380910282596105
+2014,Female,Engineering Professionals,,0.14837057586196384
+2014,Female,Engineering Professionals,Production and process engineers,0.14837057586196384
+2014,Female,Health Professionals,,8.725147090205164
+2014,Female,Health Professionals,Medical practitioners,3.5819589671676373
+2014,Female,Health Professionals,Psychologists,1.009297930067372
+2014,Female,Health Professionals,Pharmacists,1.1187696247294454
+2014,Female,Health Professionals,Ophthalmic opticians,0.23793555467487731
+2014,Female,Health Professionals,Dental practitioners,0.5429686309179038
+2014,Female,Health Professionals,Veterinarians,0.31609913727402983
+2014,Female,Health Professionals,Medical radiographers,0.607688321190135
+2014,Female,Health Professionals,Podiatrists,0.36911258116635676
+2014,Female,Health Professionals,Health professionals n.e.c,0.941316343017407
+2014,Female,Therapy Professionals,,3.783464926988385
+2014,Female,Therapy Professionals,Physiotherapists,1.2507087766362832
+2014,Female,Therapy Professionals,Occupational therapists,1.1576380209127213
+2014,Female,Therapy Professionals,Speech and language therapists,0.29683260677377066
+2014,Female,Therapy Professionals,Therapy professionals n.e.c,1.0782855226656098
+2014,Female,Nursing and Midwifery Professionals,,17.150321616925282
+2014,Female,Nursing and Midwifery Professionals,Nurses,15.914520013413407
+2014,Female,Nursing and Midwifery Professionals,Midwives,1.235801603511874
+2014,Female,Quality and Regulatory Professionals,,0.9826845105630584
+2014,Female,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,0.9826845105630584
+2014,Female,"Science, Engineering and Production Technicians",,1.3549065634240771
+2014,Female,"Science, Engineering and Production Technicians",Laboratory technicians,1.3549065634240771
+2014,Female,Health Associate Professionals,,3.013596317409993
+2014,Female,Health Associate Professionals,Paramedics,0.24668475444319118
+2014,Female,Health Associate Professionals,Dispensing opticians,0.17065512300704205
+2014,Female,Health Associate Professionals,Pharmaceutical technicians,0.6129622290644149
+2014,Female,Health Associate Professionals,Medical and dental technicians,0.7361521812029387
+2014,Female,Health Associate Professionals,Health associate professionals n.e.c,1.2471420296924063
+2014,Female,Welfare and Housing Associate Professionals,,3.775264457519129
+2014,Female,Welfare and Housing Associate Professionals,Child and early years officers,0.647837088071213
+2014,Female,Welfare and Housing Associate Professionals,Counsellors,0.5992744566045788
+2014,Female,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,2.5281529128433373
+2014,Female,Administrative Occupations: Records,,3.9867999878059934
+2014,Female,Administrative Occupations: Records,Records clerks and assistants,2.8280340212785413
+2014,Female,Administrative Occupations: Records,Stock control clerks and assistants,1.158765966527452
+2014,Female,Secretarial and Related Occupations,,15.18772673231107
+2014,Female,Secretarial and Related Occupations,Medical Secretaries,1.913849343047892
+2014,Female,Secretarial and Related Occupations,Personal assistants and other secretaries,6.715788190104563
+2014,Female,Secretarial and Related Occupations,Receptionists,6.558089199158614
+2014,Female,Caring Personal Services,,31.016157058805597
+2014,Female,Caring Personal Services,Nursing auxiliaries and assistants,7.247721245008078
+2014,Female,Caring Personal Services,Ambulance staff (excluding paramedics),0.24388013291467245
+2014,Female,Caring Personal Services,Dental nurses,1.5997317318537938
+2014,Female,Caring Personal Services,Care workers and home carers,20.130689266225648
+2014,Female,Caring Personal Services,Senior care workers,1.7941346828034022
+2014,Female,Sales Assistants and Retail Cashiers,,1.8904673353046977
+2014,Female,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.8904673353046977
+2014,Female,Process Operatives,,0.24509953357924583
+2014,Female,Process Operatives,Chemical and related process operatives,0.24509953357924583
+2015,,Health and Social Services Managers and Directors,,0.9127322991859929
+2015,,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.9127322991859929
+2015,,Managers and Proprietors in Health and Care Services,,0.39445553678390416
+2015,,Managers and Proprietors in Health and Care Services,Health care practice managers,0.39445553678390416
+2015,,Natural and Social Science Professionals,,1.9854093073260635
+2015,,Natural and Social Science Professionals,Chemical scientists,0.4476731684841038
+2015,,Natural and Social Science Professionals,Biological scientists and biochemists,1.5377361388419597
+2015,,Engineering Professionals,,1.0191829212102594
+2015,,Engineering Professionals,Production and process engineers,1.0191829212102594
+2015,,Health Professionals,,7.835493779757334
+2015,,Health Professionals,Medical practitioners,3.559007832898172
+2015,,Health Professionals,Psychologists,0.5590385501459069
+2015,,Health Professionals,Pharmacists,1.00136691752419
+2015,,Health Professionals,Ophthalmic opticians,0.2030410075257257
+2015,,Health Professionals,Dental practitioners,0.7031945937643987
+2015,,Health Professionals,Veterinarians,0.3217324527722316
+2015,,Health Professionals,Medical radiographers,0.4502841345415451
+2015,,Health Professionals,Podiatrists,0.24632160958378127
+2015,,Health Professionals,Health professionals n.e.c,0.7915066810013823
+2015,,Therapy Professionals,,2.141683305175856
+2015,,Therapy Professionals,Physiotherapists,0.803824297342958
+2015,,Therapy Professionals,Occupational therapists,0.4878359698970972
+2015,,Therapy Professionals,Speech and language therapists,0.3169712793733681
+2015,,Therapy Professionals,Therapy professionals n.e.c,0.5330517585624328
+2015,,Nursing and Midwifery Professionals,,10.517570265704194
+2015,,Nursing and Midwifery Professionals,Nurses,9.840976808477961
+2015,,Nursing and Midwifery Professionals,Midwives,0.6765934572262325
+2015,,Quality and Regulatory Professionals,,1.3979265857779144
+2015,,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.3979265857779144
+2015,,"Science, Engineering and Production Technicians",,1.045737981876824
+2015,,"Science, Engineering and Production Technicians",Laboratory technicians,1.045737981876824
+2015,,Health Associate Professionals,,2.2533251420672706
+2015,,Health Associate Professionals,Paramedics,0.3721394563047151
+2015,,Health Associate Professionals,Dispensing opticians,0.09407157118722162
+2015,,Health Associate Professionals,Pharmaceutical technicians,0.43426508984794965
+2015,,Health Associate Professionals,Medical and dental technicians,0.6159883274458609
+2015,,Health Associate Professionals,Health associate professionals n.e.c,0.7368606972815235
+2015,,Welfare and Housing Associate Professionals,,2.9521578866533558
+2015,,Welfare and Housing Associate Professionals,Child and early years officers,0.5623713715251113
+2015,,Welfare and Housing Associate Professionals,Counsellors,0.44477038857318385
+2015,,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.9450161265550607
+2015,,Administrative Occupations: Records,,3.710904622945784
+2015,,Administrative Occupations: Records,Records clerks and assistants,1.8039318077100293
+2015,,Administrative Occupations: Records,Stock control clerks and assistants,1.9069728152357548
+2015,,Secretarial and Related Occupations,,8.08190754108432
+2015,,Secretarial and Related Occupations,Medical Secretaries,0.9907387498080172
+2015,,Secretarial and Related Occupations,Personal assistants and other secretaries,3.327307633236062
+2015,,Secretarial and Related Occupations,Receptionists,3.7638611580402395
+2015,,Caring Personal Services,,19.32584856396867
+2015,,Caring Personal Services,Nursing auxiliaries and assistants,4.932299185992935
+2015,,Caring Personal Services,Ambulance staff (excluding paramedics),0.3445092919674397
+2015,,Caring Personal Services,Dental nurses,0.7493779757333743
+2015,,Caring Personal Services,Care workers and home carers,12.046966671786208
+2015,,Caring Personal Services,Senior care workers,1.2526954384887112
+2015,,Sales Assistants and Retail Cashiers,,1.1727230840116725
+2015,,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.1727230840116725
+2015,,Process Operatives,,0.6930579020119797
+2015,,Process Operatives,Chemical and related process operatives,0.6930579020119797
+2015,Male,Health and Social Services Managers and Directors,,0.6507361234153857
+2015,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.6507361234153857
+2015,Male,Managers and Proprietors in Health and Care Services,,0.0
+2015,Male,Natural and Social Science Professionals,,1.8706169350708952
+2015,Male,Natural and Social Science Professionals,Chemical scientists,0.497841817683829
+2015,Male,Natural and Social Science Professionals,Biological scientists and biochemists,1.3727751173870664
+2015,Male,Engineering Professionals,,1.9061280717406022
+2015,Male,Engineering Professionals,Production and process engineers,1.9061280717406022
+2015,Male,Health Professionals,,6.9801675445982
+2015,Male,Health Professionals,Medical practitioners,3.721841484708465
+2015,Male,Health Professionals,Psychologists,0.23981708802755589
+2015,Male,Health Professionals,Pharmacists,0.8697578399252115
+2015,Male,Health Professionals,Ophthalmic opticians,0.22185886614717729
+2015,Male,Health Professionals,Dental practitioners,0.8893996451068756
+2015,Male,Health Professionals,Veterinarians,0.24667613110686715
+2015,Male,Health Professionals,Medical radiographers,0.1905255102621417
+2015,Male,Health Professionals,Health professionals n.e.c,0.6002909793139055
+2015,Male,Therapy Professionals,,0.41048255082823726
+2015,Male,Therapy Professionals,Physiotherapists,0.2524751402557394
+2015,Male,Therapy Professionals,Therapy professionals n.e.c,0.15800741057249781
+2015,Male,Nursing and Midwifery Professionals,,2.0045241624601764
+2015,Male,Nursing and Midwifery Professionals,Nurses,2.0045241624601764
+2015,Male,Quality and Regulatory Professionals,,1.655585934534487
+2015,Male,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.655585934534487
+2015,Male,"Science, Engineering and Production Technicians",,0.8929850539892429
+2015,Male,"Science, Engineering and Production Technicians",Laboratory technicians,0.8929850539892429
+2015,Male,Health Associate Professionals,,1.65106520159585
+2015,Male,Health Associate Professionals,Paramedics,0.5785602837399056
+2015,Male,Health Associate Professionals,Pharmaceutical technicians,0.15164720698986373
+2015,Male,Health Associate Professionals,Medical and dental technicians,0.6396681220828606
+2015,Male,Health Associate Professionals,Health associate professionals n.e.c,0.28118958878321976
+2015,Male,Welfare and Housing Associate Professionals,,1.6714240885539875
+2015,Male,Welfare and Housing Associate Professionals,Child and early years officers,0.26609969400873495
+2015,Male,Welfare and Housing Associate Professionals,Counsellors,0.21496864559932372
+2015,Male,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.1903557489459289
+2015,Male,Administrative Occupations: Records,,3.40959913725709
+2015,Male,Administrative Occupations: Records,Records clerks and assistants,0.9474832690012251
+2015,Male,Administrative Occupations: Records,Stock control clerks and assistants,2.4621158682558653
+2015,Male,Secretarial and Related Occupations,,0.8253611247209421
+2015,Male,Secretarial and Related Occupations,Medical Secretaries,0.15311254801135296
+2015,Male,Secretarial and Related Occupations,Personal assistants and other secretaries,0.15414140447324964
+2015,Male,Secretarial and Related Occupations,Receptionists,0.5181071722363395
+2015,Male,Caring Personal Services,,6.880025515640255
+2015,Male,Caring Personal Services,Nursing auxiliaries and assistants,1.7966016247514183
+2015,Male,Caring Personal Services,Ambulance staff (excluding paramedics),0.5461668939244312
+2015,Male,Caring Personal Services,Care workers and home carers,4.251110190682956
+2015,Male,Caring Personal Services,Senior care workers,0.2861468062814493
+2015,Male,Sales Assistants and Retail Cashiers,,0.24842206934523733
+2015,Male,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,0.24842206934523733
+2015,Male,Process Operatives,,1.162950754097226
+2015,Male,Process Operatives,Chemical and related process operatives,1.162950754097226
+2015,Female,Health and Social Services Managers and Directors,,1.1671049667072682
+2015,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,1.1671049667072682
+2015,Female,Managers and Proprietors in Health and Care Services,,0.6554143775066338
+2015,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.6554143775066338
+2015,Female,Natural and Social Science Professionals,,2.096859844091171
+2015,Female,Natural and Social Science Professionals,Chemical scientists,0.3989636752049434
+2015,Female,Natural and Social Science Professionals,Biological scientists and biochemists,1.6978961688862275
+2015,Female,Engineering Professionals,,0.15804168044347566
+2015,Female,Engineering Professionals,Production and process engineers,0.15804168044347566
+2015,Female,Health Professionals,,8.58501417970783
+2015,Female,Health Professionals,Medical practitioners,3.400908032849059
+2015,Female,Health Professionals,Psychologists,0.8689719441660325
+2015,Female,Health Professionals,Pharmacists,1.1291459038311684
+2015,Female,Health Professionals,Ophthalmic opticians,0.18477043045910274
+2015,Female,Health Professionals,Dental practitioners,0.5224063055149403
+2015,Female,Health Professionals,Veterinarians,0.3946047397550563
+2015,Female,Health Professionals,Medical radiographers,0.7024848262884006
+2015,Female,Health Professionals,Podiatrists,0.40456369644264556
+2015,Female,Health Professionals,Health professionals n.e.c,0.9771583004014248
+2015,Female,Therapy Professionals,,3.7391493156062694
+2015,Female,Therapy Professionals,Physiotherapists,1.3391315650524651
+2015,Female,Therapy Professionals,Occupational therapists,0.921339710334815
+2015,Female,Therapy Professionals,Speech and language therapists,0.5814940971689653
+2015,Female,Therapy Professionals,Therapy professionals n.e.c,0.897183943050024
+2015,Female,Nursing and Midwifery Professionals,,18.782925287029087
+2015,Female,Nursing and Midwifery Professionals,Nurses,17.449424013599394
+2015,Female,Nursing and Midwifery Professionals,Midwives,1.3335012734296943
+2015,Female,Quality and Regulatory Professionals,,1.1477621906483944
+2015,Female,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.1477621906483944
+2015,Female,"Science, Engineering and Production Technicians",,1.1940456094183762
+2015,Female,"Science, Engineering and Production Technicians",Laboratory technicians,1.1940456094183762
+2015,Female,Health Associate Professionals,,2.8134506698215676
+2015,Female,Health Associate Professionals,Paramedics,0.17172389449451014
+2015,Female,Health Associate Professionals,Dispensing opticians,0.16079628548472377
+2015,Female,Health Associate Professionals,Pharmaceutical technicians,0.7086599848424074
+2015,Female,Health Associate Professionals,Medical and dental technicians,0.5929968434950562
+2015,Female,Health Associate Professionals,Health associate professionals n.e.c,1.1792736615048698
+2015,Female,Welfare and Housing Associate Professionals,,4.195626722441667
+2015,Female,Welfare and Housing Associate Professionals,Child and early years officers,0.8500226831130512
+2015,Female,Welfare and Housing Associate Professionals,Counsellors,0.667885776154922
+2015,Female,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,2.677718263173694
+2015,Female,Administrative Occupations: Records,,4.003440047640742
+2015,Female,Administrative Occupations: Records,Records clerks and assistants,2.6354608056178446
+2015,Female,Administrative Occupations: Records,Stock control clerks and assistants,1.3679792420228982
+2015,Female,Secretarial and Related Occupations,,15.127322234212322
+2015,Female,Secretarial and Related Occupations,Medical Secretaries,1.803993868551882
+2015,Female,Secretarial and Related Occupations,Personal assistants and other secretaries,6.40814970788019
+2015,Female,Secretarial and Related Occupations,Receptionists,6.915178657780251
+2015,Female,Caring Personal Services,,31.38094495605936
+2015,Female,Caring Personal Services,Nursing auxiliaries and assistants,7.976761062138168
+2015,Female,Caring Personal Services,Ambulance staff (excluding paramedics),0.1487184018423283
+2015,Female,Caring Personal Services,Dental nurses,1.4483471143801916
+2015,Female,Caring Personal Services,Care workers and home carers,19.61599655450369
+2015,Female,Caring Personal Services,Senior care workers,2.191121823194979
+2015,Female,Sales Assistants and Retail Cashiers,,2.0701310940755437
+2015,Female,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,2.0701310940755437
+2015,Female,Process Operatives,,0.23683549277719854
+2015,Female,Process Operatives,Chemical and related process operatives,0.23683549277719854
+2016,,Health and Social Services Managers and Directors,,0.7549799613393229
+2016,,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.7549799613393229
+2016,,Managers and Proprietors in Health and Care Services,,0.43113205104184277
+2016,,Managers and Proprietors in Health and Care Services,Health care practice managers,0.43113205104184277
+2016,,Natural and Social Science Professionals,,2.0491529838639653
+2016,,Natural and Social Science Professionals,Chemical scientists,0.4728849730609111
+2016,,Natural and Social Science Professionals,Biological scientists and biochemists,1.5762680108030545
+2016,,Engineering Professionals,,0.7036304173311947
+2016,,Engineering Professionals,Production and process engineers,0.7036304173311947
+2016,,Health Professionals,,8.315153066120725
+2016,,Health Professionals,Medical practitioners,4.228012691913399
+2016,,Health Professionals,Psychologists,0.42156589451941484
+2016,,Health Professionals,Pharmacists,0.9338274832021034
+2016,,Health Professionals,Ophthalmic opticians,0.2885536672043822
+2016,,Health Professionals,Dental practitioners,0.6127062321681815
+2016,,Health Professionals,Veterinarians,0.33778586128159077
+2016,,Health Professionals,Medical radiographers,0.5788286332734687
+2016,,Health Professionals,Podiatrists,0.1812695264600194
+2016,,Health Professionals,Health professionals n.e.c,0.7326030760981658
+2016,,Therapy Professionals,,1.8832532853197579
+2016,,Therapy Professionals,Physiotherapists,0.7404174682892575
+2016,,Therapy Professionals,Occupational therapists,0.42567873251472627
+2016,,Therapy Professionals,Speech and language therapists,0.2063273727647868
+2016,,Therapy Professionals,Therapy professionals n.e.c,0.5108297117509875
+2016,,Nursing and Midwifery Professionals,,10.932121417070714
+2016,,Nursing and Midwifery Professionals,Nurses,10.278637157815687
+2016,,Nursing and Midwifery Professionals,Midwives,0.6534842592550278
+2016,,Quality and Regulatory Professionals,,1.4227068262447808
+2016,,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.4227068262447808
+2016,,"Science, Engineering and Production Technicians",,1.1670253975362577
+2016,,"Science, Engineering and Production Technicians",Laboratory technicians,1.1670253975362577
+2016,,Health Associate Professionals,,2.4760046368440216
+2016,,Health Associate Professionals,Paramedics,0.297190626994536
+2016,,Health Associate Professionals,Dispensing opticians,0.1015414002842428
+2016,,Health Associate Professionals,Pharmaceutical technicians,0.47474336652545923
+2016,,Health Associate Professionals,Medical and dental technicians,0.7050927597295276
+2016,,Health Associate Professionals,Health associate professionals n.e.c,0.8974364833102558
+2016,,Welfare and Housing Associate Professionals,,2.681052460010267
+2016,,Welfare and Housing Associate Professionals,Child and early years officers,0.638678042471907
+2016,,Welfare and Housing Associate Professionals,Counsellors,0.4150767501268125
+2016,,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.6272976674115471
+2016,,Administrative Occupations: Records,,3.060956828910509
+2016,,Administrative Occupations: Records,Records clerks and assistants,1.7032176102583318
+2016,,Administrative Occupations: Records,Stock control clerks and assistants,1.3577392186521773
+2016,,Secretarial and Related Occupations,,7.575436303564002
+2016,,Secretarial and Related Occupations,Medical Secretaries,1.0017045428580569
+2016,,Secretarial and Related Occupations,Personal assistants and other secretaries,3.0223570826878463
+2016,,Secretarial and Related Occupations,Receptionists,3.5513746780180995
+2016,,Caring Personal Services,,18.913906114571482
+2016,,Caring Personal Services,Nursing auxiliaries and assistants,4.6993743916427135
+2016,,Caring Personal Services,Ambulance staff (excluding paramedics),0.375319316172136
+2016,,Caring Personal Services,Dental nurses,0.7302877006341387
+2016,,Caring Personal Services,Care workers and home carers,11.710072340250518
+2016,,Caring Personal Services,Senior care workers,1.398852365871975
+2016,,Sales Assistants and Retail Cashiers,,1.2810424064062782
+2016,,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,1.2810424064062782
+2016,,Process Operatives,,0.6980704696708663
+2016,,Process Operatives,Chemical and related process operatives,0.6980704696708663
+2016,Male,Health and Social Services Managers and Directors,,0.5969236703044202
+2016,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.5969236703044202
+2016,Male,Managers and Proprietors in Health and Care Services,,0.0
+2016,Male,Natural and Social Science Professionals,,2.415646040540157
+2016,Male,Natural and Social Science Professionals,Chemical scientists,0.7693573046661721
+2016,Male,Natural and Social Science Professionals,Biological scientists and biochemists,1.6462887358739853
+2016,Male,Engineering Professionals,,1.3455568179480712
+2016,Male,Engineering Professionals,Production and process engineers,1.3455568179480712
+2016,Male,Health Professionals,,7.403311306426768
+2016,Male,Health Professionals,Medical practitioners,4.56728299877255
+2016,Male,Health Professionals,Psychologists,0.26255746475179165
+2016,Male,Health Professionals,Pharmacists,0.7406029228659229
+2016,Male,Health Professionals,Ophthalmic opticians,0.20625323486795252
+2016,Male,Health Professionals,Dental practitioners,0.6814572288299647
+2016,Male,Health Professionals,Veterinarians,0.268981644573974
+2016,Male,Health Professionals,Medical radiographers,0.29347383014604445
+2016,Male,Health Professionals,Health professionals n.e.c,0.3827019816185684
+2016,Male,Therapy Professionals,,0.8008296086988831
+2016,Male,Therapy Professionals,Physiotherapists,0.44024163069898103
+2016,Male,Therapy Professionals,Therapy professionals n.e.c,0.36058797799990205
+2016,Male,Nursing and Midwifery Professionals,,2.4755947570538885
+2016,Male,Nursing and Midwifery Professionals,Nurses,2.4755947570538885
+2016,Male,Quality and Regulatory Professionals,,1.8122981904135547
+2016,Male,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.8122981904135547
+2016,Male,"Science, Engineering and Production Technicians",,1.1173131213811098
+2016,Male,"Science, Engineering and Production Technicians",Laboratory technicians,1.1173131213811098
+2016,Male,Health Associate Professionals,,1.752380359379738
+2016,Male,Health Associate Professionals,Paramedics,0.5051320239990063
+2016,Male,Health Associate Professionals,Pharmaceutical technicians,0.20344265619574772
+2016,Male,Health Associate Professionals,Medical and dental technicians,0.7827616029489951
+2016,Male,Health Associate Professionals,Health associate professionals n.e.c,0.261044076235989
+2016,Male,Welfare and Housing Associate Professionals,,1.5581724616783774
+2016,Male,Welfare and Housing Associate Professionals,Child and early years officers,0.29906410201053973
+2016,Male,Welfare and Housing Associate Professionals,Counsellors,0.20665474610683893
+2016,Male,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,1.052453613560999
+2016,Male,Administrative Occupations: Records,,2.325583981109946
+2016,Male,Administrative Occupations: Records,Records clerks and assistants,0.8776417972458429
+2016,Male,Administrative Occupations: Records,Stock control clerks and assistants,1.4479421838641033
+2016,Male,Secretarial and Related Occupations,,0.7869929136972593
+2016,Male,Secretarial and Related Occupations,Receptionists,0.7869929136972593
+2016,Male,Caring Personal Services,,5.943725296634959
+2016,Male,Caring Personal Services,Nursing auxiliaries and assistants,1.7112100146539249
+2016,Male,Caring Personal Services,Ambulance staff (excluding paramedics),0.5101045862652147
+2016,Male,Caring Personal Services,Care workers and home carers,3.3681233556184424
+2016,Male,Caring Personal Services,Senior care workers,0.35428734009737695
+2016,Male,Sales Assistants and Retail Cashiers,,0.27963713514442085
+2016,Male,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,0.27963713514442085
+2016,Male,Process Operatives,,1.2386621719645456
+2016,Male,Process Operatives,Chemical and related process operatives,1.2386621719645456
+2016,Female,Health and Social Services Managers and Directors,,0.9087963527918828
+2016,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.9087963527918828
+2016,Female,Managers and Proprietors in Health and Care Services,,0.7410495461729022
+2016,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.7410495461729022
+2016,Female,Natural and Social Science Professionals,,1.6924964487931908
+2016,Female,Natural and Social Science Professionals,Chemical scientists,0.18436819777832414
+2016,Female,Natural and Social Science Professionals,Biological scientists and biochemists,1.5081282510148668
+2016,Female,Engineering Professionals,,0.0
+2016,Female,Health Professionals,,9.202539916887032
+2016,Female,Health Professionals,Medical practitioners,3.8978514823094894
+2016,Female,Health Professionals,Psychologists,0.5763084160745985
+2016,Female,Health Professionals,Pharmacists,1.1218687613426717
+2016,Female,Health Professionals,Ophthalmic opticians,0.36864622526102797
+2016,Female,Health Professionals,Dental practitioners,0.5458007993897274
+2016,Female,Health Professionals,Veterinarians,0.40474440027435815
+2016,Female,Health Professionals,Medical radiographers,0.8565276380973106
+2016,Female,Health Professionals,Podiatrists,0.3576755059605571
+2016,Female,Health Professionals,Health professionals n.e.c,1.0731166881772918
+2016,Female,Therapy Professionals,,2.8537395725567305
+2016,Female,Therapy Professionals,Physiotherapists,1.0325400551481527
+2016,Female,Therapy Professionals,Occupational therapists,0.8004717709866855
+2016,Female,Therapy Professionals,Speech and language therapists,0.363686859001911
+2016,Female,Therapy Professionals,Therapy professionals n.e.c,0.6570408874199813
+2016,Female,Nursing and Midwifery Professionals,,19.16175889785449
+2016,Female,Nursing and Midwifery Professionals,Nurses,17.87232367048408
+2016,Female,Nursing and Midwifery Professionals,Midwives,1.2894352273704117
+2016,Female,Quality and Regulatory Professionals,,1.0435708879790373
+2016,Female,Quality and Regulatory Professionals,Quality assurance and regulatory professionals,1.0435708879790373
+2016,Female,"Science, Engineering and Production Technicians",,1.2154054146661384
+2016,Female,"Science, Engineering and Production Technicians",Laboratory technicians,1.2154054146661384
+2016,Female,Health Associate Professionals,,2.8850286651369776
+2016,Female,Health Associate Professionals,Pharmaceutical technicians,0.7387652320171877
+2016,Female,Health Associate Professionals,Medical and dental technicians,0.6295088904905806
+2016,Female,Health Associate Professionals,Health associate professionals n.e.c,1.5167545426292095
+2016,Female,Welfare and Housing Associate Professionals,,3.773807212301152
+2016,Female,Welfare and Housing Associate Professionals,Child and early years officers,0.9691803940922827
+2016,Female,Welfare and Housing Associate Professionals,Counsellors,0.6179069791207675
+2016,Female,Welfare and Housing Associate Professionals,Welfare and housing associate professionals n.e.c,2.1867198390881017
+2016,Female,Administrative Occupations: Records,,3.7766024914653813
+2016,Female,Administrative Occupations: Records,Records clerks and assistants,2.5066440479489565
+2016,Female,Administrative Occupations: Records,Stock control clerks and assistants,1.269958443516425
+2016,Female,Secretarial and Related Occupations,,14.040146220151378
+2016,Female,Secretarial and Related Occupations,Medical Secretaries,1.9223405323293572
+2016,Female,Secretarial and Related Occupations,Personal assistants and other secretaries,5.876217824984265
+2016,Female,Secretarial and Related Occupations,Receptionists,6.241587862837755
+2016,Female,Caring Personal Services,,31.474933559520508
+2016,Female,Caring Personal Services,Nursing auxiliaries and assistants,7.607367273833361
+2016,Female,Caring Personal Services,Ambulance staff (excluding paramedics),0.2441511037745887
+2016,Female,Caring Personal Services,Dental nurses,1.3798159203471676
+2016,Female,Caring Personal Services,Care workers and home carers,19.828207552784185
+2016,Female,Caring Personal Services,Senior care workers,2.415391708781204
+2016,Female,Sales Assistants and Retail Cashiers,,2.2555798881768108
+2016,Female,Sales Assistants and Retail Cashiers,Pharmacy and other dispensing assistants,2.2555798881768108
+2016,Female,Process Operatives,,0.1719848105131351
+2016,Female,Process Operatives,Chemical and related process operatives,0.1719848105131351
