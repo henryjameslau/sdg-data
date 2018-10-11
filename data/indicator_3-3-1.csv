@@ -587,7 +587,7 @@ Year,Country,Sex,Age,Birth region,Value
 2016,Scotland,,25 to 34,,9.228179831
 2001,Wales,,25 to 34,,5.205008862
 2002,Wales,,25 to 34,,8.977970305
-2003,Wales,,25 to 34,,12.601167329999999
+2003,Wales,,25 to 34,,12.60116733
 2004,Wales,,25 to 34,,10.11192456
 2005,Wales,,25 to 34,,15.03307276
 2006,Wales,,25 to 34,,15.96572304
@@ -1076,7 +1076,7 @@ Year,Country,Sex,Age,Birth region,Value
 2015,,,,Rest of Europe,32.04586602
 2016,,,,Rest of Europe,24.34981423
 2005,England,,,Rest of Europe,31.33757962
-2006,England,,,Rest of Europe,30.0
+2006,England,,,Rest of Europe,30
 2007,England,,,Rest of Europe,29.39590076
 2008,England,,,Rest of Europe,29.16874067
 2009,England,,,Rest of Europe,28.16901408
@@ -1154,7 +1154,7 @@ Year,Country,Sex,Age,Birth region,Value
 2016,Scotland,,,Africa,0.522727273
 2005,Wales,,,Africa,1.5625
 2006,Wales,,,Africa,2.411764706
-2007,Wales,,,Africa,2.0
+2007,Wales,,,Africa,2
 2008,Wales,,,Africa,1.545454545
 2009,Wales,,,Africa,1.238095238
 2010,Wales,,,Africa,1.545454545
@@ -1164,7 +1164,7 @@ Year,Country,Sex,Age,Birth region,Value
 2014,Wales,,,Africa,0.47826087
 2015,Wales,,,Africa,0.285714286
 2016,Wales,,,Africa,0.3
-2006,Northern Ireland,,,Africa,2.0
+2006,Northern Ireland,,,Africa,2
 2005,,,,Asia,0.12795389
 2006,,,,Asia,0.120885051
 2007,,,,Asia,0.131131131
